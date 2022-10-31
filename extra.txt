@@ -1,0 +1,2 @@
+fonts used= playfair italic regular 400
+             notosans regular 400
